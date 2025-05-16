@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InteractableObject.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AH/4NGFWTT63UU38C3M7DOH0P.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/Item.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/3DItem.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/2DItem.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Sprites/Item_Texture.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/ControlsLabel.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2Y/UVMLH5URV525PYQ3IMEKDK.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/KS/MJP9XFY4TGFIOJR3V0D6N0.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/2DInteractable.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/3DInteractable.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Sprites/ItemSprite.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Sprites/Item_Sprite.uasset",
 				"C:/Users/svili/Documents/Unreal Projects/InventoryPrototype/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
