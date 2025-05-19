@@ -2103,3 +2103,1051 @@ Sampler Limit: 32
 [2025.05.19-19.46.14:014][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4762.039062
 [2025.05.19-19.46.15:016][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.19-19.46.15:016][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4762.707031, Update Interval: 341.503967
+[2025.05.19-19.46.58:532][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.05.19-19.46.58:536][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.051
+[2025.05.19-19.46.58:536][262]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-19.46.58:541][262]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-19.46.58:541][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-19.46.58:550][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/InventoryScreen_Auto1
+[2025.05.19-19.46.58:550][262]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen_Auto11770EF8A4578D575C8D19CB00CD0FB31.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/Autosaves/Game/UI/InventoryScreen_Auto1.uasset'
+[2025.05.19-19.46.58:552][262]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.05.19-19.52.33:512][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5141.541992
+[2025.05.19-19.52.34:512][270]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-19.52.34:512][270]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5142.209473, Update Interval: 336.268799
+[2025.05.19-19.58.45:261][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5513.296387
+[2025.05.19-19.58.46:261][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-19.58.46:261][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5513.964844, Update Interval: 315.862915
+[2025.05.19-20.04.13:469][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-20.04.13:650][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-20.04.13:650][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-20.04.13:650][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-20.04.13:662][398]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-20.04.13:663][398]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen3E992C71403B4059B58C0B9E1BAEE371.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-20.04.13:681][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.223 ms (total: 5.75 sec)
+[2025.05.19-20.04.13:749][398]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-20.04.13:749][398]LogContentValidation: Enabled validators:
+[2025.05.19-20.04.13:749][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-20.04.13:749][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-20.04.13:749][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-20.04.13:749][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-20.04.13:749][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-20.04.13:749][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-20.04.13:750][398]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-20.04.32:163][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5860.202148
+[2025.05.19-20.04.32:334][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.04.32:334][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5860.317383, Update Interval: 307.234711
+[2025.05.19-20.06.06:780][803]LogSlate: Took 0.009435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.19-20.06.20:098][286]LogSlate: Window 'Change Variable Type' being destroyed
+[2025.05.19-20.06.44:924][277]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.05.19-20.06.44:958][277]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.05.19-20.06.52:815][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.05.19-20.06.52:821][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2025.05.19-20.06.52:821][434]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-20.06.53:113][434]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-20.06.53:121][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-20.06.53:131][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/ViewportRecording_Auto2
+[2025.05.19-20.06.53:131][434]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecording_Auto2A8994C264163A98F57ABDC86B7508055.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/Autosaves/Game/Blueprints/ViewportRecording_Auto2.uasset'
+[2025.05.19-20.06.53:132][434]LogFileHelpers: Auto-saving content packages took 0.311
+[2025.05.19-20.10.24:712][712]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6212.744629
+[2025.05.19-20.10.25:710][715]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.10.25:710][715]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6213.406250, Update Interval: 316.300537
+[2025.05.19-20.12.40:135][369]LogEditorTransaction: Undo Add Node
+[2025.05.19-20.13.10:765][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-20.13.10:953][693]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-20.13.11:233][693]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-20.13.11:233][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-20.13.11:233][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ViewportRecording" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset" SILENT=true
+[2025.05.19-20.13.11:253][693]LogSavePackage: Moving output files for package: /Game/Blueprints/ViewportRecording
+[2025.05.19-20.13.11:254][693]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecordingD79762BB48CC36E3CA72D2A8DF310951.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset'
+[2025.05.19-20.13.11:266][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 501.172 ms (total: 6.25 sec)
+[2025.05.19-20.13.11:332][693]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-20.13.11:332][693]LogContentValidation: Enabled validators:
+[2025.05.19-20.13.11:332][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-20.13.11:332][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-20.13.11:332][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-20.13.11:332][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-20.13.11:332][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-20.13.11:332][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-20.13.11:332][693]AssetCheck: /Game/Blueprints/ViewportRecording Validating asset
+[2025.05.19-20.15.18:995][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-20.15.19:206][243]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-20.15.19:454][243]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-20.15.19:455][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-20.15.19:455][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ViewportRecording" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset" SILENT=true
+[2025.05.19-20.15.19:485][243]LogSavePackage: Moving output files for package: /Game/Blueprints/ViewportRecording
+[2025.05.19-20.15.19:486][243]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecordingB63C1B04442EC5B05BB6BC82FB29760C.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset'
+[2025.05.19-20.15.19:506][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 511.291 ms (total: 6.76 sec)
+[2025.05.19-20.15.19:555][243]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-20.15.19:555][243]LogContentValidation: Enabled validators:
+[2025.05.19-20.15.19:555][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-20.15.19:555][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-20.15.19:555][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-20.15.19:555][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-20.15.19:555][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-20.15.19:555][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-20.15.19:555][243]AssetCheck: /Game/Blueprints/ViewportRecording Validating asset
+[2025.05.19-20.16.35:240][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6583.291504
+[2025.05.19-20.16.36:240][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.16.36:240][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6583.958984, Update Interval: 321.687683
+[2025.05.19-20.16.53:694][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.05.19-20.16.53:698][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.063
+[2025.05.19-20.16.53:698][627]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-20.16.53:701][627]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-20.16.53:701][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-20.16.53:710][627]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/InventoryScreen_Auto3
+[2025.05.19-20.16.53:710][627]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen_Auto3BC3B209D4CAE1C2B2E06069B3EAB6FE6.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/Autosaves/Game/UI/InventoryScreen_Auto3.uasset'
+[2025.05.19-20.16.53:711][627]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.05.19-20.22.48:304][767]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6956.359375
+[2025.05.19-20.22.49:304][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.22.49:304][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6957.025879, Update Interval: 314.539032
+[2025.05.19-20.25.23:011][231]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 4d2...6e1
+[2025.05.19-20.25.23:012][231]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.549e+07
+[2025.05.19-20.25.24:012][234]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 4d2...6e1 Access[Expires: 2025.05.19-22.25.23 Remaining: 7200.47] Refresh[Expires: 2025-11-15T02:40:37.999Z Remaining: 15488115.00] State: Valid
+[2025.05.19-20.26.54:136][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.05.19-20.26.54:141][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2025.05.19-20.26.54:142][504]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-20.26.54:146][504]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-20.26.54:147][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-20.26.54:157][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/InventoryScreen_Auto4
+[2025.05.19-20.26.54:157][504]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen_Auto4308645F5495114903B28A7A2F2F3EAE0.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/Autosaves/Game/UI/InventoryScreen_Auto4.uasset'
+[2025.05.19-20.26.54:158][504]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.05.19-20.28.32:958][801]LogDerivedDataCache: C:/Users/svili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.19-20.28.38:079][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7306.134766
+[2025.05.19-20.28.39:080][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.28.39:080][819]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7306.801758, Update Interval: 349.765930
+[2025.05.19-20.35.09:836][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7697.894531
+[2025.05.19-20.35.10:836][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.35.10:836][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7698.561035, Update Interval: 346.184265
+[2025.05.19-20.41.55:032][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8103.092773
+[2025.05.19-20.41.56:032][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.41.56:032][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8103.759766, Update Interval: 332.914215
+[2025.05.19-20.48.04:459][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8472.513672
+[2025.05.19-20.48.05:457][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.48.05:457][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8473.179688, Update Interval: 300.968658
+[2025.05.19-20.53.37:864][314]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8805.925781
+[2025.05.19-20.53.38:864][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-20.53.38:864][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8806.591797, Update Interval: 351.917480
+[2025.05.19-21.00.16:299][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9204.348633
+[2025.05.19-21.00.17:297][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.00.17:297][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9205.014648, Update Interval: 357.094025
+[2025.05.19-21.06.07:746][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.05.19-21.06.07:754][143]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.049
+[2025.05.19-21.06.07:755][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-21.06.08:077][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-21.06.08:078][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-21.06.08:103][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/ViewportRecording_Auto5
+[2025.05.19-21.06.08:103][143]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecording_Auto5AADA0DDB4D7FB49F541964B7C815FFE3.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/Autosaves/Game/Blueprints/ViewportRecording_Auto5.uasset'
+[2025.05.19-21.06.08:105][143]LogFileHelpers: Auto-saving content packages took 0.351
+[2025.05.19-21.06.41:099][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.06.41:271][265]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-21.06.41:272][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-21.06.41:272][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ViewportRecording" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset" SILENT=true
+[2025.05.19-21.06.41:281][265]LogSavePackage: Moving output files for package: /Game/Blueprints/ViewportRecording
+[2025.05.19-21.06.41:282][265]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecording40F6AA39451B4C29C468F5B0CA5083CD.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset'
+[2025.05.19-21.06.41:298][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.210 ms (total: 6.96 sec)
+[2025.05.19-21.06.41:365][265]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.06.41:365][265]LogContentValidation: Enabled validators:
+[2025.05.19-21.06.41:365][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.06.41:365][265]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.06.41:365][265]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.06.41:365][265]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.06.41:365][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.06.41:365][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.06.41:366][265]AssetCheck: /Game/Blueprints/ViewportRecording Validating asset
+[2025.05.19-21.06.57:967][482]LogEditorTransaction: Undo Add In Parameter
+[2025.05.19-21.06.59:590][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.06.59:770][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-21.07.00:006][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-21.07.00:006][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-21.07.00:006][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ViewportRecording" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset" SILENT=true
+[2025.05.19-21.07.00:027][523]LogSavePackage: Moving output files for package: /Game/Blueprints/ViewportRecording
+[2025.05.19-21.07.00:028][523]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecordingE60743684DB4F1F7506B438847247399.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset'
+[2025.05.19-21.07.00:043][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 453.392 ms (total: 7.42 sec)
+[2025.05.19-21.07.00:098][523]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.07.00:098][523]LogContentValidation: Enabled validators:
+[2025.05.19-21.07.00:098][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.07.00:098][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.07.00:098][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.07.00:098][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.07.00:098][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.07.00:098][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.07.00:098][523]AssetCheck: /Game/Blueprints/ViewportRecording Validating asset
+[2025.05.19-21.07.00:974][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9609.015625
+[2025.05.19-21.07.01:974][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.07.01:974][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9609.681641, Update Interval: 348.449341
+[2025.05.19-21.07.21:561][838]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.07.21:736][838]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.07.21:736][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.07.21:736][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.07.21:746][838]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.07.21:747][838]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenF2CC5FB141C8EA44CA79A3AA028D9010.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.07.21:760][838]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.365 ms (total: 7.62 sec)
+[2025.05.19-21.07.21:830][838]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.07.21:830][838]LogContentValidation: Enabled validators:
+[2025.05.19-21.07.21:830][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.07.21:830][838]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.07.21:830][838]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.07.21:830][838]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.07.21:830][838]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.07.21:830][838]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.07.21:831][838]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.08.32:303][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.08.32:486][801]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.08.32:492][801]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.08.32:492][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.08.32:492][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.08.32:504][801]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.08.32:505][801]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenAE8BE98A4EA9131D5C1EA48FC1BBA05B.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.08.32:520][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.695 ms (total: 7.83 sec)
+[2025.05.19-21.08.32:581][801]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.08.32:581][801]LogContentValidation: Enabled validators:
+[2025.05.19-21.08.32:581][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.08.32:581][801]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.08.32:581][801]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.08.32:581][801]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.08.32:581][801]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.08.32:581][801]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.08.32:582][801]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.13.50:310][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10018.356445
+[2025.05.19-21.13.51:309][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.13.51:309][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10019.021484, Update Interval: 357.910706
+[2025.05.19-21.19.25:983][696]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.19-21.19.26:268][696]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.19-21.20.04:084][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.20.04:252][761]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-21.20.04:252][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-21.20.04:252][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-21.20.04:265][761]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-21.20.04:266][761]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstruct207CEA394E8440B9366B36A01239643B.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-21.20.04:283][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.082 ms (total: 8.03 sec)
+[2025.05.19-21.20.04:354][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.20.04:354][761]LogContentValidation: Enabled validators:
+[2025.05.19-21.20.04:354][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.20.04:354][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.20.04:354][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.20.04:354][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.20.04:354][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.20.04:354][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.20.04:354][761]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-21.20.21:573][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10409.605469
+[2025.05.19-21.20.21:757][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.20.21:757][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10409.772461, Update Interval: 307.079071
+[2025.05.19-21.22.00:742][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2025.05.19-21.22.03:335][351]LogBlueprint: Warning: [AssetLog] C:\Users\svili\Documents\GitHub\InventoryPrototype\Content\UI\InventoryScreen.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.05.19-21.22.03:464][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.05.19-21.22.27:047][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.22.27:115][  5]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.22.27:123][  5]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.22.27:123][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.22.27:123][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.22.27:135][  5]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.22.27:135][  5]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenB3302F994A6B2EA994E5DCAE62A9DB5C.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.22.27:159][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.716 ms (total: 8.14 sec)
+[2025.05.19-21.22.27:214][  5]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.22.27:215][  5]LogContentValidation: Enabled validators:
+[2025.05.19-21.22.27:215][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.22.27:215][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.22.27:215][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.22.27:215][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.22.27:215][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.22.27:215][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.22.27:216][  5]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.22.28:667][ 34]LogBlueprint: Warning: [AssetLog] C:\Users\svili\Documents\GitHub\InventoryPrototype\Content\UI\InventoryScreen.uasset: [Compiler] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2025.05.19-21.22.28:784][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.05.19-21.22.36:656][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.22.36:803][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.22.36:809][270]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.22.36:809][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.22.36:809][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.22.36:821][270]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.22.36:822][270]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen8B9167A04B0DE17AB359DF9C71F80796.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.22.36:834][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.866 ms (total: 8.32 sec)
+[2025.05.19-21.22.36:897][270]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.22.36:897][270]LogContentValidation: Enabled validators:
+[2025.05.19-21.22.36:897][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.22.36:897][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.22.36:897][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.22.36:897][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.22.36:897][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.22.36:897][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.22.36:898][270]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.22.38:245][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.05.19-21.22.43:980][460]LogEditorTransaction: Undo Add Node
+[2025.05.19-21.23.06:525][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.23.06:685][177]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.23.06:689][177]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.23.06:689][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.23.06:689][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.23.06:704][177]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.23.06:704][177]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenA66D24174C474E791EE937B69E4065E0.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.23.06:720][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.240 ms (total: 8.52 sec)
+[2025.05.19-21.23.06:780][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.23.06:780][177]LogContentValidation: Enabled validators:
+[2025.05.19-21.23.06:780][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.23.06:780][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.23.06:780][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.23.06:780][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.23.06:780][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.23.06:780][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.23.06:781][177]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.24.05:656][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.24.05:818][671]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.24.05:824][671]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.24.05:824][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.24.05:824][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.24.05:841][671]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.24.05:842][671]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen4E9E17094BC979C3D34679882DD3E98F.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.24.05:854][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.095 ms (total: 8.71 sec)
+[2025.05.19-21.24.05:915][671]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.24.05:915][671]LogContentValidation: Enabled validators:
+[2025.05.19-21.24.05:915][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.24.05:915][671]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.24.05:915][671]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.24.05:915][671]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.24.05:915][671]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.24.05:915][671]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.24.05:916][671]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.24.27:201][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.24.27:354][220]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.24.27:359][220]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.24.27:359][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.24.27:359][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.24.27:375][220]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.24.27:376][220]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen7FD8E1E84F0075EEC5322D97414E9C5B.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.24.27:388][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 187.352 ms (total: 8.90 sec)
+[2025.05.19-21.24.27:447][220]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.24.27:447][220]LogContentValidation: Enabled validators:
+[2025.05.19-21.24.27:447][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.24.27:447][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.24.27:447][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.24.27:447][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.24.27:447][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.24.27:447][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.24.27:448][220]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.25.26:212][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.25.26:405][627]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.25.26:410][627]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.25.26:410][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.25.26:410][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.25.26:432][627]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.25.26:435][627]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen412C761C4A61ABC6AED045BF3F1A86C0.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.25.26:451][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 238.716 ms (total: 9.14 sec)
+[2025.05.19-21.25.26:519][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.25.26:519][627]LogContentValidation: Enabled validators:
+[2025.05.19-21.25.26:519][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.25.26:519][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.25.26:519][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.25.26:519][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.25.26:519][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.25.26:519][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.25.26:521][627]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.25.32:980][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.25.33:191][768]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.25.33:197][768]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.25.33:197][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.25.33:197][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.25.33:215][768]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.25.33:216][768]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreen5714129049878F3ADE1247BF4A38EBB1.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.25.33:230][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 249.731 ms (total: 9.39 sec)
+[2025.05.19-21.25.33:301][768]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.25.33:301][768]LogContentValidation: Enabled validators:
+[2025.05.19-21.25.33:301][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.25.33:301][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.25.33:301][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.25.33:301][768]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.25.33:301][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.25.33:301][768]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.25.33:303][768]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.26.28:181][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10776.243164
+[2025.05.19-21.26.28:382][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.26.28:383][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10776.400391, Update Interval: 353.754089
+[2025.05.19-21.26.33:654][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.26.33:838][580]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-21.26.33:844][580]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-21.26.33:844][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-21.26.33:844][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-21.26.33:869][580]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-21.26.33:870][580]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenEB658D154572F10BB833B2AD484EE584.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-21.26.33:885][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.089 ms (total: 9.62 sec)
+[2025.05.19-21.26.33:936][580]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.26.33:936][580]LogContentValidation: Enabled validators:
+[2025.05.19-21.26.33:936][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.26.33:936][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.26.33:936][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.26.33:936][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.26.33:936][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.26.33:936][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.26.33:938][580]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-21.27.17:024][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.27.17:170][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-21.27.17:469][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-21.27.17:469][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-21.27.17:469][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ViewportRecording" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset" SILENT=true
+[2025.05.19-21.27.17:489][802]LogSavePackage: Moving output files for package: /Game/Blueprints/ViewportRecording
+[2025.05.19-21.27.17:490][802]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecording175ADE4947E9125E487E0DBA56F09AC2.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset'
+[2025.05.19-21.27.17:505][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 480.725 ms (total: 10.1 sec)
+[2025.05.19-21.27.17:569][802]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.27.17:569][802]LogContentValidation: Enabled validators:
+[2025.05.19-21.27.17:569][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.27.17:569][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.27.17:569][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.27.17:569][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.27.17:569][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.27.17:569][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.27.17:569][802]AssetCheck: /Game/Blueprints/ViewportRecording Validating asset
+[2025.05.19-21.27.23:297][856]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.19-21.27.25:086][887]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.19-21.27.26:625][909]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.05.19-21.27.30:007][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.19-21.27.30:049][955]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.19-21.27.30:050][955]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.19-21.27.30:087][955]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 37.250 ms
+[2025.05.19-21.27.30:109][955]LogPlayLevel: [PlayLevel] Compiling InventoryScreen before play...
+[2025.05.19-21.27.30:259][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2025.05.19-21.27.30:262][955]LogPlayLevel: PlayLevel: Blueprint regeneration took 159 ms (1 blueprints)
+[2025.05.19-21.27.30:318][955]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.05.19-21.27.30:320][955]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.05.19-21.27.30:323][955]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-21.27.30:378][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053856s)
+[2025.05.19-21.27.30:378][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.054877s)
+[2025.05.19-21.27.30:401][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.05.19-21.27.30:406][955]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.19-21.27.30:469][955]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.19-21.27.30:469][955]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-21.27.30:469][955]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-21.27.30:469][955]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.19-21.27.30:475][955]LogWorldPartition: Display: WorldPartition initialize took 6.740 ms (total: 584.754 ms)
+[2025.05.19-21.27.30:477][955]LogPlayLevel: PIE: World Init took: (0.071569s)
+[2025.05.19-21.27.30:482][955]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.19-21.27.30:483][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.19-21.27.30:483][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.19-21.27.30:483][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.19-21.27.30:483][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.19-21.27.30:483][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.19-21.27.30:484][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.19-21.27.30:484][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.19-21.27.30:484][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.19-21.27.30:486][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.19-21.27.30:486][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.19-21.27.30:486][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.19-21.27.30:491][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.19-21.27.30:513][955]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Lenovo USB Audio)
+[2025.05.19-21.27.30:516][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.19-21.27.30:516][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.19-21.27.30:517][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.19-21.27.30:522][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.19-21.27.30:522][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.19-21.27.30:524][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.19-21.27.30:524][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.19-21.27.30:525][955]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.19-21.27.30:525][955]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2025.05.19-21.27.30:527][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.19-21.27.30:562][955]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.19-21.27.30:578][955]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.19-17.27.30
+[2025.05.19-21.27.30:581][955]LogWorld: Bringing up level for play took: 0.015288
+[2025.05.19-21.27.30:586][955]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.05.19-21.27.30:771][955]PIE: Server logged in
+[2025.05.19-21.27.30:773][955]PIE: Play in editor total start time 0.732 seconds.
+[2025.05.19-21.27.33:375][970]LogScript: Warning: Accessed None trying to read property InventoryScreen
+	InventoryConstruct_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.InventoryConstruct
+	Function /Game/Blueprints/InventoryConstruct.InventoryConstruct_C:ExecuteUbergraph_InventoryConstruct:0020
+[2025.05.19-21.27.33:377][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryScreen". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Inventory Construct Blueprint:  InventoryConstruct
+[2025.05.19-21.27.45:677][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-21.27.45:677][102]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-21.27.45:684][102]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-21.27.45:694][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-21.27.45:695][102]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.19-21.27.45:865][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.19-21.27.45:887][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-21.27.45:957][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-21.27.45:960][102]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.19-21.27.45:961][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.19-21.27.45:965][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.19-21.27.46:008][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2025.05.19-21.27.46:239][103]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.05.19-21.27.47:921][123]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-21.27.48:147][123]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-21.28.32:956][482]LogDerivedDataCache: C:/Users/svili/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.19-21.33.01:694][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11169.752930
+[2025.05.19-21.33.01:933][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.33.01:933][981]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11169.909180, Update Interval: 338.145691
+[2025.05.19-21.33.29:847][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.05.19-21.33.29:852][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2025.05.19-21.33.29:852][123]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-21.33.29:852][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-21.33.29:863][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/InventoryConstruct_Auto6
+[2025.05.19-21.33.29:864][123]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstruct_Auto6D4E9FADC4EBF035C7718F2A90C21AE84.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/Autosaves/Game/Blueprints/InventoryConstruct_Auto6.uasset'
+[2025.05.19-21.33.29:866][123]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.05.19-21.33.30:301][130]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2025.05.19-21.33.34:488][130]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.19-21.33.43:645][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.33.43:903][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-21.33.43:903][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-21.33.43:903][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-21.33.43:918][245]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-21.33.43:919][245]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstruct98ECEB18460644F5C783E3B393BB5C3A.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-21.33.43:932][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 287.268 ms (total: 10.3 sec)
+[2025.05.19-21.33.44:001][245]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.33.44:001][245]LogContentValidation: Enabled validators:
+[2025.05.19-21.33.44:001][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.33.44:001][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.33.44:002][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.33.44:002][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.33.44:002][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.33.44:002][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.33.44:002][245]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-21.33.45:428][262]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2025.05.19-21.35.09:819][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.35.10:069][ 72]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/ViewportRecording] ([2] browsable assets)...
+[2025.05.19-21.35.10:354][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ViewportRecording.ViewportRecording]
+[2025.05.19-21.35.10:355][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ViewportRecording]
+[2025.05.19-21.35.10:355][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ViewportRecording" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset" SILENT=true
+[2025.05.19-21.35.10:379][ 72]LogSavePackage: Moving output files for package: /Game/Blueprints/ViewportRecording
+[2025.05.19-21.35.10:380][ 72]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/ViewportRecording113A188A4995231939F3988F9DBDDF38.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset'
+[2025.05.19-21.35.10:392][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 572.255 ms (total: 10.9 sec)
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: Enabled validators:
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.35.10:447][ 72]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.35.10:448][ 72]AssetCheck: /Game/Blueprints/ViewportRecording Validating asset
+[2025.05.19-21.35.11:534][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2025.05.19-21.35.13:065][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.35.13:319][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-21.35.13:319][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-21.35.13:319][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-21.35.13:334][103]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-21.35.13:336][103]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstructA85C147A41EF06AC27516D87EE1320AD.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-21.35.13:348][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 282.809 ms (total: 11.2 sec)
+[2025.05.19-21.35.13:414][103]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.35.13:415][103]LogContentValidation: Enabled validators:
+[2025.05.19-21.35.13:415][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.35.13:415][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.35.13:415][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.35.13:415][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.35.13:415][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.35.13:415][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.35.13:415][103]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-21.35.13:876][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2025.05.19-21.35.16:575][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.19-21.35.16:597][143]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.19-21.35.16:597][143]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.19-21.35.16:604][143]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 7.033 ms (total: 44.283 ms)
+[2025.05.19-21.35.16:605][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.19-21.35.16:606][143]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-21.35.16:623][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017305s)
+[2025.05.19-21.35.16:623][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.017445s)
+[2025.05.19-21.35.16:696][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2025.05.19-21.35.16:709][143]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.19-21.35.16:718][143]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.19-21.35.16:719][143]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-21.35.16:719][143]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-21.35.16:719][143]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.19-21.35.16:724][143]LogWorldPartition: Display: WorldPartition initialize took 5.579 ms (total: 590.333 ms)
+[2025.05.19-21.35.16:724][143]LogPlayLevel: PIE: World Init took: (0.014758s)
+[2025.05.19-21.35.16:727][143]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.19-21.35.16:727][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.19-21.35.16:727][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.19-21.35.16:727][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.19-21.35.16:727][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.19-21.35.16:727][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.19-21.35.16:734][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.19-21.35.16:770][143]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Lenovo USB Audio)
+[2025.05.19-21.35.16:770][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.19-21.35.16:770][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.19-21.35.16:771][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.19-21.35.16:771][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.19-21.35.16:772][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.19-21.35.16:784][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.19-21.35.16:784][143]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.19-21.35.16:784][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.19-21.35.16:784][143]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.05.19-21.35.16:785][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.19-21.35.16:797][143]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.19-21.35.16:804][143]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.19-17.35.16
+[2025.05.19-21.35.16:805][143]LogWorld: Bringing up level for play took: 0.005901
+[2025.05.19-21.35.16:811][143]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.05.19-21.35.16:822][143]PIE: Server logged in
+[2025.05.19-21.35.16:823][143]PIE: Play in editor total start time 0.227 seconds.
+[2025.05.19-21.35.20:736][171]LogScript: Warning: Accessed None trying to read property InventoryScreen
+	InventoryConstruct_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.InventoryConstruct
+	Function /Game/Blueprints/InventoryConstruct.InventoryConstruct_C:ExecuteUbergraph_InventoryConstruct:0020
+[2025.05.19-21.35.20:737][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryScreen". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Inventory Construct Blueprint:  InventoryConstruct
+[2025.05.19-21.35.53:139][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-21.35.53:139][485]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-21.35.53:140][485]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-21.35.53:142][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-21.35.53:142][485]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.19-21.35.53:264][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.19-21.35.53:282][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-21.35.53:346][485]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.19-21.35.53:347][485]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.19-21.35.53:347][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.19-21.35.53:363][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.19-21.35.53:378][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-21.35.53:389][485]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2025.05.19-21.35.53:564][486]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.05.19-21.35.55:000][511]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-21.35.55:168][511]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-21.37.00:481][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.37.00:735][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-21.37.00:735][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-21.37.00:735][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-21.37.00:749][  7]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-21.37.00:750][  7]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstruct9D689261467B4C96F60AB1998C3D6FD2.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-21.37.00:762][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 280.027 ms (total: 11.5 sec)
+[2025.05.19-21.37.00:830][  7]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.37.00:830][  7]LogContentValidation: Enabled validators:
+[2025.05.19-21.37.00:830][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.37.00:830][  7]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.37.00:830][  7]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.37.00:830][  7]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.37.00:830][  7]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.37.00:830][  7]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.37.00:830][  7]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-21.37.07:082][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-21.37.07:334][134]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-21.37.07:335][134]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-21.37.07:335][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-21.37.07:347][134]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-21.37.07:348][134]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstructDDC7BCDC4873E5B03F3923BDE3CE3767.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-21.37.07:359][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.801 ms (total: 11.8 sec)
+[2025.05.19-21.37.07:412][134]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-21.37.07:412][134]LogContentValidation: Enabled validators:
+[2025.05.19-21.37.07:412][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-21.37.07:412][134]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-21.37.07:412][134]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-21.37.07:412][134]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-21.37.07:412][134]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-21.37.07:412][134]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-21.37.07:412][134]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-21.39.31:824][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11559.907227
+[2025.05.19-21.39.32:060][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.39.32:061][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11560.065430, Update Interval: 327.884155
+[2025.05.19-21.45.37:941][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11926.078125
+[2025.05.19-21.45.38:185][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.45.38:186][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11926.236328, Update Interval: 317.183136
+[2025.05.19-21.51.29:522][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12277.647461
+[2025.05.19-21.51.29:763][ 48]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.51.29:763][ 48]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12277.808594, Update Interval: 333.553284
+[2025.05.19-21.58.00:773][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12668.934570
+[2025.05.19-21.58.01:074][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-21.58.01:074][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12669.158203, Update Interval: 354.312561
+[2025.05.19-22.04.33:846][499]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13062.013672
+[2025.05.19-22.04.34:073][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-22.04.34:073][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13062.166016, Update Interval: 355.671265
+[2025.05.19-22.11.27:423][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13475.560547
+[2025.05.19-22.11.27:653][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-22.11.27:653][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13475.716797, Update Interval: 321.773743
+[2025.05.19-22.13.52:928][168]LogEditorTransaction: Undo Move Node
+[2025.05.19-22.13.53:304][169]LogEditorTransaction: Undo Add Node
+[2025.05.19-22.13.54:274][197]LogEditorTransaction: Undo Delete current selection
+[2025.05.19-22.13.55:415][211]LogEditorTransaction: Undo Delete current selection
+[2025.05.19-22.14.36:182][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.14.36:435][316]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-22.14.36:435][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-22.14.36:435][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-22.14.36:449][316]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-22.14.36:450][316]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstructC2EB288C42B113E9AD690297A6148ED7.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-22.14.36:463][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 281.605 ms (total: 12.0 sec)
+[2025.05.19-22.14.36:531][316]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.14.36:531][316]LogContentValidation: Enabled validators:
+[2025.05.19-22.14.36:531][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.14.36:531][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.14.36:531][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.14.36:531][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.14.36:531][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.14.36:531][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.14.36:531][316]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-22.14.38:298][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2025.05.19-22.14.40:618][366]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.19-22.14.40:637][366]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.19-22.14.40:637][366]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.19-22.14.40:644][366]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 7.263 ms (total: 51.547 ms)
+[2025.05.19-22.14.40:645][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.19-22.14.40:646][366]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.14.40:666][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020013s)
+[2025.05.19-22.14.40:666][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.020266s)
+[2025.05.19-22.14.40:722][366]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2025.05.19-22.14.40:736][366]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.19-22.14.40:741][366]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.19-22.14.40:742][366]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-22.14.40:742][366]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-22.14.40:742][366]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.19-22.14.40:747][366]LogWorldPartition: Display: WorldPartition initialize took 5.240 ms (total: 595.574 ms)
+[2025.05.19-22.14.40:747][366]LogPlayLevel: PIE: World Init took: (0.010929s)
+[2025.05.19-22.14.40:750][366]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.19-22.14.40:750][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.19-22.14.40:750][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.19-22.14.40:750][366]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.19-22.14.40:750][366]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.19-22.14.40:750][366]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.19-22.14.40:757][366]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.19-22.14.40:788][366]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Lenovo USB Audio)
+[2025.05.19-22.14.40:788][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.19-22.14.40:788][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.19-22.14.40:788][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.19-22.14.40:789][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.19-22.14.40:789][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.19-22.14.40:792][366]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.19-22.14.40:792][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.19-22.14.40:792][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.19-22.14.40:792][366]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.05.19-22.14.40:792][366]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.19-22.14.40:797][366]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.19-22.14.40:800][366]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.19-18.14.40
+[2025.05.19-22.14.40:800][366]LogWorld: Bringing up level for play took: 0.002418
+[2025.05.19-22.14.40:806][366]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.05.19-22.14.40:815][366]PIE: Server logged in
+[2025.05.19-22.14.40:816][366]PIE: Play in editor total start time 0.179 seconds.
+[2025.05.19-22.14.43:545][386]LogScript: Warning: Accessed None trying to read property InventoryScreen
+	InventoryConstruct_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.InventoryConstruct
+	Function /Game/Blueprints/InventoryConstruct.InventoryConstruct_C:ExecuteUbergraph_InventoryConstruct:0020
+[2025.05.19-22.14.43:545][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryScreen". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Inventory Construct Blueprint:  InventoryConstruct
+[2025.05.19-22.14.43:548][386]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.19-22.14.43:548][386]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.05.19-22.14.58:936][593]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockAlways
+[2025.05.19-22.14.58:936][593]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.05.19-22.14.59:797][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.14.59:798][601]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.14.59:798][601]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-22.14.59:800][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.14.59:800][601]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.19-22.14.59:988][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.19-22.15.00:007][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.15.00:070][601]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.19-22.15.00:071][601]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.19-22.15.00:071][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.19-22.15.00:077][601]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.19-22.15.00:124][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.15.00:133][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2025.05.19-22.15.00:330][602]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.05.19-22.15.11:189][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.15.11:451][725]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-22.15.11:451][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-22.15.11:452][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-22.15.11:465][725]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-22.15.11:467][725]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstructFD895D5A468BF69550C0BAB7DA7D1B34.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-22.15.11:482][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.785 ms (total: 12.3 sec)
+[2025.05.19-22.15.11:546][725]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.15.11:546][725]LogContentValidation: Enabled validators:
+[2025.05.19-22.15.11:546][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.15.11:546][725]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.15.11:546][725]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.15.11:546][725]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.15.11:546][725]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.15.11:546][725]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.15.11:547][725]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-22.15.12:104][732]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2025.05.19-22.15.17:850][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.19-22.15.17:870][803]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.19-22.15.17:870][803]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.19-22.15.17:878][803]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 8.255 ms (total: 59.803 ms)
+[2025.05.19-22.15.17:879][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.19-22.15.17:879][803]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.15.17:895][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015843s)
+[2025.05.19-22.15.17:895][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.015977s)
+[2025.05.19-22.15.17:962][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2025.05.19-22.15.17:970][803]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.19-22.15.17:976][803]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.19-22.15.17:976][803]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-22.15.17:976][803]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-22.15.17:976][803]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.19-22.15.17:984][803]LogWorldPartition: Display: WorldPartition initialize took 7.612 ms (total: 603.186 ms)
+[2025.05.19-22.15.17:984][803]LogPlayLevel: PIE: World Init took: (0.013860s)
+[2025.05.19-22.15.17:986][803]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.19-22.15.17:987][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.19-22.15.17:987][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.19-22.15.17:987][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.19-22.15.17:987][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.19-22.15.17:987][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.19-22.15.17:990][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.19-22.15.18:021][803]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Lenovo USB Audio)
+[2025.05.19-22.15.18:021][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.19-22.15.18:021][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.19-22.15.18:021][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.19-22.15.18:022][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.05.19-22.15.18:022][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.05.19-22.15.18:029][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.05.19-22.15.18:029][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.05.19-22.15.18:029][803]LogInit: FAudioDevice initialized with ID 5.
+[2025.05.19-22.15.18:029][803]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonMap'.
+[2025.05.19-22.15.18:029][803]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.19-22.15.18:038][803]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.19-22.15.18:044][803]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.19-18.15.18
+[2025.05.19-22.15.18:046][803]LogWorld: Bringing up level for play took: 0.006161
+[2025.05.19-22.15.18:054][803]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.05.19-22.15.18:075][803]PIE: Server logged in
+[2025.05.19-22.15.18:078][803]PIE: Play in editor total start time 0.208 seconds.
+[2025.05.19-22.15.25:099][859]LogScript: Warning: Accessed None trying to read property InventoryScreen
+	InventoryConstruct_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.InventoryConstruct
+	Function /Game/Blueprints/InventoryConstruct.InventoryConstruct_C:ExecuteUbergraph_InventoryConstruct:0020
+[2025.05.19-22.15.25:099][859]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryScreen". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Inventory Construct Blueprint:  InventoryConstruct
+[2025.05.19-22.15.25:102][859]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.19-22.15.25:102][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.05.19-22.16.13:888][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.16.13:889][428]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.16.13:889][428]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-22.16.13:891][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.16.13:891][428]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.19-22.16.14:017][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.19-22.16.14:034][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.16.14:091][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.19-22.16.14:093][428]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.05.19-22.16.14:093][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.19-22.16.14:097][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.05.19-22.16.14:126][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.16.14:135][428]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2025.05.19-22.16.14:272][429]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.05.19-22.16.15:953][447]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-22.16.16:212][447]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-22.16.28:048][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.16.28:324][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-22.16.28:324][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-22.16.28:324][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-22.16.28:337][578]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-22.16.28:337][578]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstruct44D951F04CEE100669A956A347ECE511.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-22.16.28:353][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 305.221 ms (total: 12.6 sec)
+[2025.05.19-22.16.28:415][578]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.16.28:415][578]LogContentValidation: Enabled validators:
+[2025.05.19-22.16.28:415][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.16.28:415][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.16.28:416][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.16.28:416][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.16.28:416][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.16.28:416][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.16.28:416][578]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-22.16.31:379][611]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2025.05.19-22.17.22:963][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13831.144531
+[2025.05.19-22.17.23:962][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-22.17.23:962][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13831.810547, Update Interval: 351.208832
+[2025.05.19-22.18.46:228][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.18.46:519][475]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InventoryConstruct] ([2] browsable assets)...
+[2025.05.19-22.18.46:519][475]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InventoryConstruct]
+[2025.05.19-22.18.46:519][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/InventoryConstruct" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset" SILENT=true
+[2025.05.19-22.18.46:533][475]LogSavePackage: Moving output files for package: /Game/Blueprints/InventoryConstruct
+[2025.05.19-22.18.46:535][475]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryConstruct26954CB54EC76ABC9A02BEB820F0FA07.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InventoryConstruct.uasset'
+[2025.05.19-22.18.46:546][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 317.979 ms (total: 13.0 sec)
+[2025.05.19-22.18.46:613][475]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.18.46:613][475]LogContentValidation: Enabled validators:
+[2025.05.19-22.18.46:613][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.18.46:613][475]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.18.46:613][475]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.18.46:613][475]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.18.46:613][475]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.18.46:613][475]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.18.46:613][475]AssetCheck: /Game/Blueprints/InventoryConstruct Validating asset
+[2025.05.19-22.18.49:286][507]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.19-22.18.49:305][507]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.19-22.18.49:306][507]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.19-22.18.49:312][507]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.518 ms (total: 66.321 ms)
+[2025.05.19-22.18.49:324][507]LogPlayLevel: [PlayLevel] Compiling InventoryConstruct before play...
+[2025.05.19-22.18.49:609][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.05.19-22.18.49:613][507]LogPlayLevel: PlayLevel: Blueprint regeneration took 300 ms (1 blueprints)
+[2025.05.19-22.18.49:616][507]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.18.49:622][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006010s)
+[2025.05.19-22.18.49:622][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006072s)
+[2025.05.19-22.18.49:647][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.05.19-22.18.49:649][507]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.19-22.18.49:651][507]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.19-22.18.49:652][507]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-22.18.49:652][507]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-22.18.49:652][507]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.19-22.18.49:654][507]LogWorldPartition: Display: WorldPartition initialize took 2.065 ms (total: 605.251 ms)
+[2025.05.19-22.18.49:654][507]LogPlayLevel: PIE: World Init took: (0.004221s)
+[2025.05.19-22.18.49:655][507]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.19-22.18.49:655][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.19-22.18.49:655][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.19-22.18.49:655][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.19-22.18.49:655][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.19-22.18.49:655][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.19-22.18.49:658][507]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.19-22.18.49:675][507]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Lenovo USB Audio)
+[2025.05.19-22.18.49:675][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.19-22.18.49:675][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.19-22.18.49:675][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.19-22.18.49:676][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.05.19-22.18.49:676][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.05.19-22.18.49:680][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.05.19-22.18.49:680][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.05.19-22.18.49:680][507]LogInit: FAudioDevice initialized with ID 6.
+[2025.05.19-22.18.49:680][507]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonMap'.
+[2025.05.19-22.18.49:680][507]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.19-22.18.49:685][507]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.19-22.18.49:688][507]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.19-18.18.49
+[2025.05.19-22.18.49:689][507]LogWorld: Bringing up level for play took: 0.002963
+[2025.05.19-22.18.49:692][507]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.05.19-22.18.49:700][507]PIE: Server logged in
+[2025.05.19-22.18.49:701][507]PIE: Play in editor total start time 0.396 seconds.
+[2025.05.19-22.18.52:983][530]LogScript: Warning: Accessed None trying to read property InventoryScreen
+	InventoryConstruct_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.InventoryConstruct
+	Function /Game/Blueprints/InventoryConstruct.InventoryConstruct_C:ExecuteUbergraph_InventoryConstruct:0020
+[2025.05.19-22.18.52:983][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryScreen". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Inventory Construct Blueprint:  InventoryConstruct
+[2025.05.19-22.19.04:918][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.19.04:918][677]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.19.04:919][677]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-22.19.04:920][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.19.04:921][677]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.19-22.19.05:045][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.19-22.19.05:066][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.19.05:135][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.19.05:137][677]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.05.19-22.19.05:137][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.19-22.19.05:142][677]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.05.19-22.19.05:166][677]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2025.05.19-22.19.05:354][678]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.05.19-22.19.07:105][708]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-22.19.07:266][708]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-22.19.15:601][865]LogEditorTransaction: Undo Delete current selection
+[2025.05.19-22.19.17:739][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.19.17:990][907]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-22.19.17:994][907]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-22.19.17:994][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-22.19.17:994][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-22.19.18:016][907]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-22.19.18:017][907]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenF06D5F5A40D9083524C554A3174BD9C8.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-22.19.18:031][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.417 ms (total: 13.2 sec)
+[2025.05.19-22.19.18:115][907]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.19.18:115][907]LogContentValidation: Enabled validators:
+[2025.05.19-22.19.18:115][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.19.18:115][907]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.19.18:115][907]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.19.18:115][907]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.19.18:115][907]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.19.18:115][907]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.19.18:117][907]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-22.19.20:109][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.19-22.19.20:128][934]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.19-22.19.20:129][934]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.19-22.19.20:135][934]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 6.196 ms (total: 72.518 ms)
+[2025.05.19-22.19.20:176][934]LogPlayLevel: [PlayLevel] Compiling InventoryScreen before play...
+[2025.05.19-22.19.20:369][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.05.19-22.19.20:376][934]LogPlayLevel: PlayLevel: Blueprint regeneration took 241 ms (1 blueprints)
+[2025.05.19-22.19.20:376][934]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.19.20:382][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005192s)
+[2025.05.19-22.19.20:382][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.005241s)
+[2025.05.19-22.19.20:406][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.05.19-22.19.20:409][934]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.05.19-22.19.20:411][934]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.19-22.19.20:412][934]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.19-22.19.20:412][934]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.19-22.19.20:412][934]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.19-22.19.20:414][934]LogWorldPartition: Display: WorldPartition initialize took 2.548 ms (total: 607.800 ms)
+[2025.05.19-22.19.20:414][934]LogPlayLevel: PIE: World Init took: (0.004835s)
+[2025.05.19-22.19.20:415][934]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.19-22.19.20:415][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.19-22.19.20:415][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.19-22.19.20:415][934]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.19-22.19.20:415][934]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.19-22.19.20:415][934]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.19-22.19.20:418][934]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.19-22.19.20:434][934]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Lenovo USB Audio)
+[2025.05.19-22.19.20:435][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.19-22.19.20:435][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.19-22.19.20:435][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.19-22.19.20:436][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.05.19-22.19.20:436][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.05.19-22.19.20:439][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.05.19-22.19.20:439][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.05.19-22.19.20:439][934]LogInit: FAudioDevice initialized with ID 7.
+[2025.05.19-22.19.20:439][934]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonMap'.
+[2025.05.19-22.19.20:439][934]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.19-22.19.20:445][934]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.19-22.19.20:448][934]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.19-18.19.20
+[2025.05.19-22.19.20:448][934]LogWorld: Bringing up level for play took: 0.002303
+[2025.05.19-22.19.20:451][934]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.05.19-22.19.20:460][934]PIE: Server logged in
+[2025.05.19-22.19.20:461][934]PIE: Play in editor total start time 0.333 seconds.
+[2025.05.19-22.19.23:913][958]LogScript: Warning: Accessed None trying to read property InventoryScreen
+	InventoryConstruct_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.InventoryConstruct
+	Function /Game/Blueprints/InventoryConstruct.InventoryConstruct_C:ExecuteUbergraph_InventoryConstruct:0020
+[2025.05.19-22.19.23:914][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InventoryScreen". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Inventory Construct Blueprint:  InventoryConstruct
+[2025.05.19-22.19.44:338][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.19.44:338][212]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.19-22.19.44:338][212]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.19-22.19.44:340][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.19.44:340][212]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap
+[2025.05.19-22.19.44:457][212]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.19-22.19.44:477][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.19-22.19.44:539][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.19-22.19.44:540][212]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.05.19-22.19.44:540][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.19-22.19.44:546][212]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.05.19-22.19.44:597][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2025.05.19-22.19.44:783][213]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.05.19-22.19.46:073][238]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-22.19.46:305][238]LogSlate: Window 'Message Log' being destroyed
+[2025.05.19-22.20.18:231][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.20.18:487][ 67]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-22.20.18:491][ 67]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-22.20.18:491][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-22.20.18:491][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-22.20.18:511][ 67]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-22.20.18:511][ 67]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenD003AF76485922D9437644B053B3F7C8.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-22.20.18:523][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 293.202 ms (total: 13.5 sec)
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: Enabled validators:
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.20.18:634][ 67]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.20.18:636][ 67]AssetCheck: /Game/UI/InventoryScreen Validating asset
+[2025.05.19-22.20.21:744][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.05.19-22.23.44:330][658]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 4d2...6e1
+[2025.05.19-22.23.44:330][658]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.548e+07
+[2025.05.19-22.23.44:646][662]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 4d2...6e1 Access[Expires: 2025.05.20-00.23.44 Remaining: 7200.63] Refresh[Expires: 2025-11-15T02:40:37.999Z Remaining: 15481014.00] State: Valid
+[2025.05.19-22.23.58:959][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14227.115234
+[2025.05.19-22.23.59:197][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.19-22.23.59:198][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14227.271484, Update Interval: 300.155640
+[2025.05.19-22.24.51:803][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.19-22.24.52:071][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/InventoryScreen] ([2] browsable assets)...
+[2025.05.19-22.24.52:078][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/InventoryScreen.InventoryScreen]
+[2025.05.19-22.24.52:078][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/InventoryScreen]
+[2025.05.19-22.24.52:078][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventoryScreen" FILE="../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset" SILENT=true
+[2025.05.19-22.24.52:103][512]LogSavePackage: Moving output files for package: /Game/UI/InventoryScreen
+[2025.05.19-22.24.52:104][512]LogSavePackage: Moving '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Saved/InventoryScreenDE5D53884B2C0B42908DF29CC32E8DD4.tmp' to '../../../../../../Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/InventoryScreen.uasset'
+[2025.05.19-22.24.52:125][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 322.622 ms (total: 13.9 sec)
+[2025.05.19-22.24.52:214][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.19-22.24.52:215][512]LogContentValidation: Enabled validators:
+[2025.05.19-22.24.52:215][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.19-22.24.52:215][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.19-22.24.52:215][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.19-22.24.52:215][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.19-22.24.52:215][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.19-22.24.52:215][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.19-22.24.52:216][512]AssetCheck: /Game/UI/InventoryScreen Validating asset
