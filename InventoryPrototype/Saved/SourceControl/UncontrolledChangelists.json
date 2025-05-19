@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/InteractableObject.uasset",
-				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AH/4NGFWTT63UU38C3M7DOH0P.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/Item.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/3DItem.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/2DItem.uasset",
@@ -24,6 +23,10 @@
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6E/A27H3SJH5551CM71ZM9E8U.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1T/GPHGIXUJJH4OK5UR5F4AX8.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/E7/8DQ6UZ5QO14BKJWO6L6MKN.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/ViewportRenderTarget.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/ViewportRecording.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/ViewportMaterial.uasset",
+				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AH/4NGFWTT63UU38C3M7DOH0P.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Sprites/Item_Texture.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/Blueprints/Inventory.uasset",
 				"C:/Users/svili/Documents/GitHub/InventoryPrototype/Content/UI/CloseButton.uasset",
